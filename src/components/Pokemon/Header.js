@@ -50,7 +50,8 @@ const styles = StyleSheet.create({
   order: {
     color: "#fff",
     fontWeight: "bold",
-    fontSize: 35,
+    fontSize: 25,
+    paddingTop: 10,
   },
   contentImg: {
     flex: 1,
